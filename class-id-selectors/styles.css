@@ -1,0 +1,23 @@
+.oddfirst,
+.oddsecond,
+.oddthird{
+    background-color: #fe8181;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.oddsecond{
+    font-size: 24px;
+    
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+#four{
+    background-color: rgb(119, 252, 3);
+    font-size: 24px;
+    font-weight: bold;
+}
+
